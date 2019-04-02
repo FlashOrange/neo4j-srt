@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    druid:
+      username: root
+      password: 19971216Ll
+      url:  jdbc:mysql://cdb-lgdte03u.bj.tencentcdb.com:10111/knowledgeGraph
+
+  data:
+    neo4j:
+      uri: bolt://62.234.123.15
+      username: neo4j
+      password: admin
